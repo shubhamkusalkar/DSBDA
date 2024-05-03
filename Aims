@@ -1,0 +1,90 @@
+Expt. No: 01
+Q1. Perform the following operations using Python on the data sets
+a. Create data subsets
+b. Merge Data
+
+
+Expt. No: 02
+Q2. Perform the following operations using Python on the data sets
+a. Sort Data
+b Transposing Data
+c. Shape and reshape Data
+
+
+Expt. No: 03
+Q3. Perform the Data cleaning operations using Python on the data sets
+a. Stop word remove
+b. Lemmatisation
+c. Steaming
+
+
+
+Expt. No: 04
+Q4. Visualize the data using Python libraries matplotlib by plotting the graphs
+a. Line Plot
+b. Bar Plot
+c. Pi Plot
+
+
+Expt. No: 05
+Q5. Visualize the data using Python libraries seaborn by plotting the graphs
+a. Line Plot
+b. Bar Plot
+c. Scatter Plot
+
+
+Expt. No: 06
+Q6. Perform the following data visualization operations using Tableau Public.
+a. Data Visualization using Donet Chart
+b. Data visualization using Bubble Chart
+
+
+Expt. No: 07
+Q7. Create a review scrapper for www.amazon.com / www.flipcart.com ecommerce website to fetch real time data 
+using Python and generate the CSV file.
+
+
+Expt. No: 08
+Q8. Develop a predictive data model of “House Prize Prediction” Use Simple Linear Regression Model OR Logistic Regression Model 
+OR SVM OR KNN to calculate % Prediction accuracy.
+
+
+
+Expt. No: 09
+Q9. Perform Single node/Multiple node Hadoop Installation on Linux OS. Show all running demons.
+
+
+Expt. No: 10
+Q10. Perform the following operations using HiveQL for
+a. Creating an external Hive table.
+
+
+Expt. No: 11
+Q11. Design a JAVA distributed application using MapReduce under Hadoop system for counting no. of occurrences
+of every word in a given text file using Eclipse.
+
+
+Expt. No: 12
+Q12. Perform the Operation with missing value using Python on the data sets
+a. Filling the Missing Values – Imputation
+b. Imputation with an additional column
+c. Filling with a Regression Model
+
+
+Expt. No: 13
+Q13. Develop a predictive data model of “Stock Prize Prediction” Use Simple Linear Regression Model 
+OR Logistic Regression Model OR SVM OR KNN to predict prize after 25 days.
+
+
+
+
+Expt. No: 14
+Q14. Perform the Sentiment analysis using Python. Print polarity and subjectivity of the following sentence.
+a. “The Food at Radison was awesome”
+b. “The Food at Radison was very good”
+
+
+Expt. No: 15
+Q15. Perform the following data visualization operations using Tableau Public.
+a. Data Visualization using Heatmap Chart
+b. Data visualization using Bubble Chart
